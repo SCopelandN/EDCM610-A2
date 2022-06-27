@@ -1,0 +1,21 @@
+body{background-color: rgb(7, 7, 7);}
+header{font-size: 50px; color: palevioletred; text-align:center; }
+button{margin-inline: 600px; color: palevioletred; text-align:center;}
+div{border-bottom: 6px solid turquoise;
+
+ text-align:center;}
+h1{color: white;}
+details{color: white; font-size: 40px; font-family: cursive;}
+summary{color: white;}
+footer{border: 6px solid white;color:grey; text-align:center;}
+img{border: 3px dotted palevioletred;
+  border-radius: 4px;
+  padding: 5px;
+  width: 450px;}
+a{color: grey;}  
+
+#hobby1 {background-color: chartreuse;}
+
+#hobby2 {background-color: chartreuse;}
+
+#hobby3 {background-color: chartreuse;}
